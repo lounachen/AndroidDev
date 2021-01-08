@@ -1,5 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
-Helloworld
+## Helloworld
 ### App Description
 A simple Android app with color changing, text customizing features. 
 
